@@ -1,0 +1,23 @@
+
+html{background-image: url("../image/i.jpg");}
+
+
+
+
+.rain
+{
+
+border:2px solid transparent;
+margin:0 auto;
+text-align: center;
+width : 40%;
+padding -top: 20px;
+padding-bottom: 20px;
+color:#000000;
+backgrond-color:rgba(246, 199,220, 0.4);
+ 
+}
+
+
+
+
