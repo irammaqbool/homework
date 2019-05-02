@@ -1,23 +1,19 @@
 
-html{background-image: url("../image/i.jpg");}
-
+html{background-image: url("../image/r.jpg");}
 
 
 
 .rain
 {
 
-border:2px solid transparent;
+border:2px solid black;
 margin:0 auto;
 text-align: center;
-width : 40%;
+width : 60%;
 padding -top: 20px;
 padding-bottom: 20px;
 color:#000000;
-backgrond-color:rgba(246, 199,220, 0.4);
+backgrond-color:rgba(246, 199,223, 0.4);
  
 }
-
-
-
 
